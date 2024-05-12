@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Jack and welcome to my GitHub 
+- I write C++ and Java with the occasional dip into Python. 
 
 <!--
 **UNIJackS/UNIJackS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
