@@ -4,7 +4,7 @@
 - I am currently working on controlling my robot arm and buggy using ESP32S and ESP-NOW 
 - You can reach me on LinkedIn
 - 
-![arduinologo](arduinologo.jpg)
+![arduinologo](Arduino logo.png)
 
 <!--
 **UNIJackS/UNIJackS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
