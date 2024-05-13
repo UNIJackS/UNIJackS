@@ -1,6 +1,6 @@
 ### Hi there I'm Jack and welcome to my GitHub 
 - I write C++ and Java with the occasional dip into Python.
-- I have an interest in Cyber Security specifically which I am currently studying.
+- I have an interest in Cyber Security which I am currently studying.
 - I am currently working on controlling my robot arm and buggy using ESP32S and ESP-NOW 
 - You can reach me on LinkedIn
 
