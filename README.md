@@ -7,11 +7,11 @@
 <p align="center">
 
 
-  <img src="assets/c++LogoDark.png#gh-dark-mode-only" alt="c++ Logo" height="112" width="100" />
-  <img src="assets/esp32LogoDark.png#gh-dark-mode-only" alt="esp32 logo" height="100" width="100" />
-  <img src="assets/javaLogoDark.png#gh-dark-mode-only" alt="java Logo" height="128" width="100" />
-  <img src="assets/arduinoLogoDark.jpg#gh-dark-mode-only" alt="Arduino logo" height="100" width="100" />
-  <img src="assets/pythonLogoDark.jpg#gh-dark-mode-only" alt="python logo" height="100" width="100" />
+  <img src="assets/c++Logo.png" alt="c++ Logo" height="112" width="100" />
+  <img src="assets/esp32Logo.png" alt="esp32 logo" height="100" width="100" />
+  <img src="assets/javaLogo.png" alt="java Logo" height="128" width="100" />
+  <img src="assets/arduinoLogo.png" alt="Arduino logo" height="100" width="100" />
+  <img src="assets/pythonLogo.png" alt="python logo" height="100" width="100" />
  </p>
 
 <!--
