@@ -5,11 +5,7 @@
 - I am currently working on controlling my robot arm and rover using ESP32S and **ESP-NOW** 
 - You can reach me on **LinkedIn**
 <p align="center">
-  <img src="assets/c++Logolight.png#gh-light-mode-only" alt="c++ Logo" height="112" width="100" />
-  <img src="assets/esp32Logolight.png#gh-light-mode-only" alt="esp32 logo" height="100" width="100" />
-  <img src="assets/javaLogolight.png#gh-light-mode-only" alt="java Logo" height="128" width="100" />
-  <img src="assets/arduinoLogolight.jpg#gh-light-mode-only" alt="Arduino logo" height="100" width="100" />
-  <img src="assets/pythonLogolight.jpg#gh-light-mode-only" alt="python logo" height="100" width="100" />
+
 
   <img src="assets/c++LogoDark.png#gh-dark-mode-only" alt="c++ Logo" height="112" width="100" />
   <img src="assets/esp32LogoDark.png#gh-dark-mode-only" alt="esp32 logo" height="100" width="100" />
