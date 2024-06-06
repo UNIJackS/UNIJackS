@@ -11,11 +11,11 @@
   <img src="assets/arduinoLogolight.jpg#gh-light-mode-only" alt="Arduino logo" height="100" width="100" />
   <img src="assets/pythonLogolight.jpg#gh-light-mode-only" alt="python logo" height="100" width="100" />
 
-  <img src="assets/c++Logodark.png#gh-dark-mode-only" alt="c++ Logo" height="112" width="100" />
-  <img src="assets/esp32Logodark.png#gh-dark-mode-only" alt="esp32 logo" height="100" width="100" />
-  <img src="assets/javaLogodark.png#gh-dark-mode-only" alt="java Logo" height="128" width="100" />
-  <img src="assets/arduinoLogodark.jpg#gh-dark-mode-only" alt="Arduino logo" height="100" width="100" />
-  <img src="assets/pythonLogodark.jpg#gh-dark-mode-only" alt="python logo" height="100" width="100" />
+  <img src="assets/c++LogoDark.png#gh-dark-mode-only" alt="c++ Logo" height="112" width="100" />
+  <img src="assets/esp32LogoDark.png#gh-dark-mode-only" alt="esp32 logo" height="100" width="100" />
+  <img src="assets/javaLogoDark.png#gh-dark-mode-only" alt="java Logo" height="128" width="100" />
+  <img src="assets/arduinoLogoDark.jpg#gh-dark-mode-only" alt="Arduino logo" height="100" width="100" />
+  <img src="assets/pythonLogoDark.jpg#gh-dark-mode-only" alt="python logo" height="100" width="100" />
  </p>
 
 <!--
