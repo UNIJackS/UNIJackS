@@ -1,4 +1,4 @@
- Hi there I'm Jack and welcome to my GitHub 
+Welcome to my GitHub 
 =======
 - I write **C++** and **Java** with the occasional dip into **Python**.
 - I have an interest in **Cyber Security** which I am currently studying.
