@@ -5,8 +5,8 @@ Welcome to my GitHub
 - I am currently working on controlling my robot arm and rover using ESP32S and **ESP-NOW** 
 - You can reach me on **LinkedIn**
 <p align="center">
-
-
+  
+ <img src="assets/eJPT.png" alt="INE eJPT" height="129" width="100" />
   <img src="assets/c++Logo.png" alt="c++ Logo" height="112" width="100" />
   <img src="assets/javaLogo.png" alt="java Logo" height="128" width="100" />
   <img src="assets/pythonLogo.png" alt="python logo" height="100" width="100" />
